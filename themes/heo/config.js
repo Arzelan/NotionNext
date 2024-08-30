@@ -25,7 +25,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '0ZE.NET',
   HEO_HERO_TITLE_4: '全新开始',
   HEO_HERO_TITLE_5: '再次写博客记录生活',
-  HEO_HERO_TITLE_LINK: 'https://blog.oze.net',
+  HEO_HERO_TITLE_LINK: 'https://blog.0ze.net',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
