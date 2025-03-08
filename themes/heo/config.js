@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '盆友，我的博客欢迎来到', url: 'https://blog.starrain.vip' },
+    { title: '盆友，欢迎来到我的博客', url: 'https://blog.starrain.vip' },
     { title: '学习交流可 mail to me @Max', url: 'mailto:max@starrain.vip' }
   ],
 
@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'blog.StarRain.vip',
   HEO_HERO_TITLE_4: '选择就是个2分类',
-  HEO_HERO_TITLE_5: '蜗牛的只有2个脑细胞哦~',
+  HEO_HERO_TITLE_5: '蜗牛只有2个脑细胞哦~',
   HEO_HERO_TITLE_LINK: 'https://starrain.vip',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '准备好了吗~随便逛逛',
@@ -54,7 +54,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/Arzelan',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://starrain.vip',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_TEXT3: '我的导航',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
